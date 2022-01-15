@@ -18,7 +18,7 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  font-family: Montserrat, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
