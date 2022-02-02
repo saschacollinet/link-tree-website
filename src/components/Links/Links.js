@@ -4,8 +4,20 @@ export default function Links() {
   return (
     <Wrapper>
       <Card href="#">Check my Portfolio</Card>
-      <Card href="#">Read my Blog</Card>
-      <Card href="#">Watch me code</Card>
+      <Card
+        href="https://plateapus.hashnode.dev"
+        target="_blank"
+        rel="noreferrer"
+      >
+        Read my Blog
+      </Card>
+      <Card
+        href="https://www.twitch.tv/plateapus"
+        target="_blank"
+        rel="noreferrer"
+      >
+        Watch me code
+      </Card>
     </Wrapper>
   );
 }
