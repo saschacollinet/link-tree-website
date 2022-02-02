@@ -12,14 +12,14 @@ export default function SocialBar() {
         <Icon.GitHub color="white" />
       </a>
       <a
-        href="https://www.linkedin.com/in/sascha-collinet/"
+        href="https://www.linkedin.com/in/saschacollinet/"
         target="_blank"
         rel="noreferrer"
       >
         <Icon.Linkedin color="white" />
       </a>
       <a
-        href="https://twitter.com/CollinetSascha"
+        href="https://twitter.com/SaschaCollinet"
         target="_blank"
         rel="noreferrer"
       >
